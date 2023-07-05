@@ -1,0 +1,1 @@
+## For all shell projects
