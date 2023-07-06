@@ -9,7 +9,8 @@
 * How to change user ID or become superuser
 
 ---
+![PERMISSIONS](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A660%2F1*l2wRcr87kqZrXZwRBgTxjg.png&tbnid=003gCig2RMteuM&vet=12ahUKEwjiqZrt0_r_AhVgrycCHVQoARIQMygLegQIARBm..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40promisevector%2Fthe-linux-shell-file-permissions-29e230ca3b7d%3Fsource%3Drss-------1&docid=ZCDx5zhYYqfOOM&w=660&h=386&q=shell%20permission%20tasks%20alx&ved=2ahUKEwjiqZrt0_r_AhVgrycCHVQoARIQMygLegQIARBm)
 ## Author
-**__KIMANI BRIAN__**
+**_KIMANI BRIAN_**
 
 ---
